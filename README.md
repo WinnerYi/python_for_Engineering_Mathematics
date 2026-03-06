@@ -1,2 +1,2 @@
-# swap_face-
-homework for Engineering Mathematics
+# 一些實用 PYTHON 腳本
+homework for Engineering Mathematics    
